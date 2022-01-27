@@ -21,5 +21,17 @@ return [
             'url' => '/',
         ],
 
+        'another' => [
+            'name' => 'another',
+            'locale' => 'en_US',
+            'url' => '/another/',
+        ],
+
+        'last' => [
+            'name' => 'last',
+            'locale' => 'en_US',
+            'url' => '/last/',
+        ],
+
     ],
 ];
